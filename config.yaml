@@ -49,8 +49,8 @@ docusaurus:
       - template-chapter-template-topic: /build/make_assets/chapters/template-chapter/template-topic/slides/_site
     config_meta:
       title: edhub
-      url: http://localhost/
-      baseUrl: /oer-template/
+      url: cristinaionela07.github.io
+      baseUrl: /edhub/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
