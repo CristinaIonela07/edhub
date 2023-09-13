@@ -49,7 +49,7 @@ docusaurus:
       - template-chapter-template-topic: /build/make_assets/chapters/template-chapter/template-topic/slides/_site
     config_meta:
       title: edhub
-      url: cristinaionela07.github.io
+      url: https://cristinaionela07.github.io/
       baseUrl: /edhub/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
